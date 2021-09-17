@@ -55,7 +55,7 @@ Please don't forget to add the local directory path to Docker, so it can write.
 ## :heart: That's all. Enjoy! :heart:
 
 ## Buy me a :coffee:?
-If you feel it is really help :+1:, please consider to buy me a :coffee:!<br />
+If you feel it is helpful :+1:, please consider to buy me a :coffee:!<br />
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T165VJF)
 
 
