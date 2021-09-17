@@ -31,6 +31,14 @@ It is a all-in-one image and target on development usage. It does not suppose to
 | 33060 | MySQL port for X Protocol |
 
 ## How to :question:
+#### Before running..
+Please refer to the folder structure (https://github.com/ssmak/lamp/tree/master/container_volume/www) which is aliased and mounted to the container /home/www. Don't forget to copy the SSL certificata for https.
+Finally, there is 3 folders in the /www/default directory.
+- /www/default/html
+- /www/default/ssl
+- /www/default/logs
+
+#### After the folder structure was created..
 ##### Using Docker run
 ``` bash
 docker run --name lamp -d -v d:/my_projects/lamp/container_volume/www:/home/www -p 80:80 -p 443:443 -p 3306:3306 -p 33060:33060 ssmak/lamp:0.0.1
