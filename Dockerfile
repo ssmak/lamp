@@ -1,0 +1,7 @@
+FROM lamp:0.0.3
+VOLUME /home
+EXPOSE 80
+EXPOSE 443
+EXPOSE 3306
+EXPOSE 33060
+CMD /home/lamp/boot

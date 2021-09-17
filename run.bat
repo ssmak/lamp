@@ -1,0 +1,1 @@
+docker run --name lamp -d -v E:/Projects/Workstacks/LAMP/container_volume/www:/home/www -p 80:80 -p 443:443 -p 3306:3306 -p 33060:33060 ssmak/lamp:test
