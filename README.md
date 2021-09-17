@@ -1,6 +1,6 @@
 # LAMP
 
-A LAMP stack development environemnt run on a single container.
+A LAMP stack development environemnt runs on a single container.
 Given you a fast starting point with no installation cost.
 
 ##### Warning
