@@ -32,7 +32,7 @@ It is a all-in-one image and target on development usage. It does not suppose to
 
 ## How to :question:
 #### Before running..
-Please refer to the folder structure (https://github.com/ssmak/lamp/tree/master/container_volume/www) which is aligned and mounted to the container /home/www. Don't forget to copy the SSL certificata for https.
+Please refer to the folder structure (https://github.com/ssmak/lamp/tree/master/container_volume/www) which is aligned and mounted to the container path /home/www. Don't forget to copy the SSL certificata for https.
 Finally, there is 3 folders in the /www/default directory.
 - /www/default/html
 - /www/default/ssl
